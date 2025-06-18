@@ -1,0 +1,13 @@
+langchain
+langchain-community
+streamlit
+agno
+python-dotenv
+langchain-google-genai
+langchain-ollama
+langchain-core
+ollama
+duckduckgo_search
+faiss-cpu
+chromadb
+google-genai
